@@ -1,2 +1,4 @@
 # connector_lib
-the dependency of module connector
+
+#### connector模块的依赖库文件
+
